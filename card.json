@@ -1,0 +1,80 @@
+[
+    {
+        "name": "animal",
+        "id": 1,
+        "Cards": [
+            {
+                "word": "dog",
+                "meaning": "chó",
+                "phonetic": "",
+                "example": "",
+                "id": 1
+            },
+            {
+                "word": "sdfs",
+                "meaning": "sdasa",
+                "phonetic": "",
+                "example": "",
+                "id": 4
+            },
+            {
+                "word": "á",
+                "meaning": "dfsdf",
+                "phonetic": "",
+                "example": "",
+                "id": 5
+            },
+            {
+                "word": "ádd",
+                "meaning": "gfdfgdf",
+                "phonetic": "",
+                "example": "",
+                "id": 6
+            },
+            {
+                "word": "vnvhg",
+                "meaning": "K;j",
+                "phonetic": "",
+                "example": "",
+                "id": 7
+            },
+            {
+                "word": "fgdgf",
+                "meaning": "546",
+                "phonetic": "",
+                "example": "",
+                "id": 8
+            }
+        ]
+    },
+    {
+        "name": "New List 2",
+        "id": 41,
+        "Cards": []
+    },
+    {
+        "name": "New List 1",
+        "id": 61,
+        "Cards": []
+    },
+    {
+        "name": "New List 3",
+        "id": 62,
+        "Cards": []
+    },
+    {
+        "name": "New List 4",
+        "id": 63,
+        "Cards": []
+    },
+    {
+        "name": "New List 5",
+        "id": 64,
+        "Cards": []
+    },
+    {
+        "name": "New List 6",
+        "id": 65,
+        "Cards": []
+    }
+]
